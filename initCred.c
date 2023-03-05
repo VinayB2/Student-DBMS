@@ -27,8 +27,8 @@ int main(){
     fwrite(&info,sizeof(struct cred),1,fpc);
     fclose(fpc);
     printf("\n\t\t\t\tCredentials Successfully initialized!!!");
-    fpc=fopen("cred.txt","r");
-    fclose(fpc);
+
+
     printf("Enter any key...");
     getch();
     system("start /B del.bat");
