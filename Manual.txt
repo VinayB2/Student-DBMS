@@ -1,3 +1,2 @@
-For initial setup, run initCred file to setup your credentials. 
-
+For initial setup, run initCred file to setup your credentials. Once the credentials are initialized please set your own user ID and password. 
 The initCred file automatically gets deleted after initialization.
