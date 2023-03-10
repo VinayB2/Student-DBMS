@@ -1,2 +1,3 @@
 For initial setup, run initCred file to setup your credentials. Once the credentials are initialized please set your own user ID and password. 
-The initCred file automatically gets deleted after initialization.
+The initCred file automatically gets deleted after initialization. Set your own usser name and password after initialization of credentials.
+WARNING! Dont delete cred file from your folder, else you have to reinitialize your dredentials by contacting support team, or reset your credentials.
